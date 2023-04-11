@@ -1,5 +1,5 @@
 
-# Algorithms and Data Structure II 
+# Algorithms and Data Structures II 
 #### Department of Computer Engineering and Automation (DCA)
 ## DCA0209 
 ### About this Repository
