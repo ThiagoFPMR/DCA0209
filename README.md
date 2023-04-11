@@ -6,6 +6,12 @@
 
 This repository houses all of the homework assignments and projects done for the **Algorithms and Data Structures II** course, also referred to as **DCA0209**. The github repository for the class can be found [here](https://github.com/ivanovitchm/datastructure).
 
+### The assignments are divided into weeks:
+[Week 01](https://github.com/ThiagoFPMR/DCA0209/tree/master/week_01) **- Python and Git Basics** *(Review Material)*
+
+[Week 02]() **- OOP and More Python Fundamentals** *(Review Material)*
+
+[Week 03](https://github.com/ThiagoFPMR/DCA0209/tree/master/week_03) **- Preliminary Data Structures** *(Review Material)*
 
 #### References
 
@@ -22,11 +28,3 @@ This repository houses all of the homework assignments and projects done for the
 | :gear: Gephi | [gephi.org](https://gephi.org/) |
 | :rocket: OSMnx | [github.com/gboeing/osmnx](https://github.com/gboeing/osmnx) |
 | :bomb: ChatGPT | [chat.openai.com](https://chat.openai.com/chat) |
-
-
-### The assignments are divided into weeks:
-[Week 01](https://github.com/ThiagoFPMR/DCA0209/tree/master/week_01) **- Python and Git Basics** *(Review Material)*
-
-[Week 02]() **- OOP and More Python Fundamentals** *(Review Material)*
-
-[Week 03](https://github.com/ThiagoFPMR/DCA0209/tree/master/week_03) **- Preliminary Data Structures** *(Review Material)*
