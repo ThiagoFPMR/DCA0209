@@ -4,7 +4,7 @@
 ## DCA0209 
 ### About this Repository
 
-This repository houses all of the homework assignments and projects done for the **Algorithms and Data Structures II** course, also referred to as **DCA0209**. The reference material for the class can be found [here](https://github.com/ivanovitchm/datastructure).
+This repository houses all of the homework assignments and projects done for the **Algorithms and Data Structures II** course, also referred to as **DCA0209**. The github repository for the class can be found [here](https://github.com/ivanovitchm/datastructure).
 
 
 #### References
