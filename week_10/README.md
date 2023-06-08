@@ -8,7 +8,7 @@
 
 The goal of the project is to analyze brazillian air traffic while making use of the graph algorithms taught so far in the class. The data used in this project can be found [here](https://github.com/alvarofpp/dataset-flights-brazil).
 
-This project was done together with [Sidney Alves](https://github.com/SidneyJunior01234), who has written a [similar README](https://github.com/SidneyJunior01234/DCA0209---ALGORITMOS-E-ESTRUTURAS-DE-DADOS-II---T01/tree/main/Air%20traffic%20Brazil%20analysis) to this one as well as recorded a [video](https://www.youtube.com/watch?v=Yp7GAfcOzGg&ab_channel=SidneyJunior) briefly going over it. Both of which are in portuguese.
+This project was done together with [Sidney Alves](https://github.com/SidneyJunior01234), who has written a [similar README](https://github.com/SidneyJunior01234/DCA0209---ALGORITMOS-E-ESTRUTURAS-DE-DADOS-II---T01/tree/main/Air%20traffic%20Brazil%20analysis) to this one as well as recorded a [video](https://www.youtube.com/watch?v=Yp7GAfcOzGg&ab_channel=SidneyJunior) briefly going over it (both of which are in portuguese).
 
 The analysis will be divided into 4 parts: *assortativity analysis, bivariate analysis, trip simulation, and clustering analysis.*
 
